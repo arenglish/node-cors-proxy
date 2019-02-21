@@ -1,0 +1,23 @@
+{
+  "name": "cors-proxy",
+  "version": "1.0.0",
+  "description": "CORS proxy",
+  "main": "proxy.js",
+  "dependencies": {
+    "cors-anywhere": "^0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arenglish/node-cors-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arenglish/node-cors-proxy/issues"
+  },
+  "homepage": "https://github.com/arenglish/node-cors-proxy#readme"
+}
